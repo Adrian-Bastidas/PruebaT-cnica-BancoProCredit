@@ -1,0 +1,12 @@
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Domain\bin\Debug\net10.0\BancoProcredit.Domain.deps.json
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Domain\bin\Debug\net10.0\BancoProcredit.Domain.dll
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Domain\bin\Debug\net10.0\BancoProcredit.Domain.pdb
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Domain\obj\Debug\net10.0\BancoProcredit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Domain\obj\Debug\net10.0\BancoProcredit.Domain.AssemblyInfoInputs.cache
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Domain\obj\Debug\net10.0\BancoProcredit.Domain.AssemblyInfo.cs
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Domain\obj\Debug\net10.0\BancoProcredit.Domain.csproj.CoreCompileInputs.cache
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Domain\obj\Debug\net10.0\BancoProcredit.Domain.sourcelink.json
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Domain\obj\Debug\net10.0\BancoProcredit.Domain.dll
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Domain\obj\Debug\net10.0\refint\BancoProcredit.Domain.dll
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Domain\obj\Debug\net10.0\BancoProcredit.Domain.pdb
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Domain\obj\Debug\net10.0\ref\BancoProcredit.Domain.dll

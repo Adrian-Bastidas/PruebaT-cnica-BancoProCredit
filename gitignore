@@ -1,0 +1,24 @@
+## .NET / Visual Studio / VS Code
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Bb]uild/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core User Secrets & Local Settings
+*.env
+appsettings.Development.json
+appsettings.Local.json
+
+# NuGet Packages
+*.nupkg
+[Pp]ackages/
