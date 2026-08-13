@@ -1,0 +1,16 @@
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\bin\Debug\net10.0\BancoProcredit.Application.deps.json
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\bin\Debug\net10.0\BancoProcredit.Application.dll
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\bin\Debug\net10.0\BancoProcredit.Application.pdb
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\bin\Debug\net10.0\BancoProcredit.Domain.dll
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\bin\Debug\net10.0\BancoProcredit.Domain.pdb
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\obj\Debug\net10.0\BancoProcredit.Application.csproj.AssemblyReference.cache
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\obj\Debug\net10.0\BancoProcredit.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\obj\Debug\net10.0\BancoProcredit.Application.AssemblyInfoInputs.cache
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\obj\Debug\net10.0\BancoProcredit.Application.AssemblyInfo.cs
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\obj\Debug\net10.0\BancoProcredit.Application.csproj.CoreCompileInputs.cache
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\obj\Debug\net10.0\BancoProcredit.Application.sourcelink.json
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\obj\Debug\net10.0\BancoPro.2A06DE89.Up2Date
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\obj\Debug\net10.0\BancoProcredit.Application.dll
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\obj\Debug\net10.0\refint\BancoProcredit.Application.dll
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\obj\Debug\net10.0\BancoProcredit.Application.pdb
+D:\Directorios\Documents\Trabajo Procredit\PruebaT-cnica-BancoProCredit\BACKEND\BancoProcredit.Application\obj\Debug\net10.0\ref\BancoProcredit.Application.dll
