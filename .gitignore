@@ -1,4 +1,29 @@
 
+## .NET / Visual Studio / VS Code
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Bb]uild/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core User Secrets & Local Settings
+*.env
+appsettings.Development.json
+appsettings.Local.json
+
+# NuGet Packages
+*.nupkg
+[Pp]ackages/
+
 BACKEND/BancoProcredit.API/.vs/BancoProcredit.API.slnx/FileContentIndex/162b4a18-544e-46b7-89c2-b3584924ba86.vsidx
 
 BACKEND/BancoProcredit.API/.vs/BancoProcredit.API.slnx/FileContentIndex/30e869c2-9c81-4ecf-91ec-7e821e01f42c.vsidx
