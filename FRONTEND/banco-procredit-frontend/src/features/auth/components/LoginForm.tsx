@@ -7,6 +7,7 @@ import { Input } from "../../../shared/components/Input";
 import { useAuth } from "../context/AuthProvider";
 import type { LoginRequest } from "../types/auth.types";
 import { PasswordInput } from "./PasswordInput";
+import { cookieUtils } from "../../../shared/utils/cookieUtils";
 
 const schema = z.object({
   Email: z.string().min(1, "Ingrese su usuario."),
@@ -20,7 +21,7 @@ interface LoginFormProps {
 export function LoginForm({ onSuccess }: LoginFormProps) {
   const { login, loading, error } = useAuth();
   const [remember, setRemember] = useState(
-    localStorage.getItem("procredit_remember_user") === "true",
+    cookieUtils.get("procredit_remember_user") === "true",
   );
   const {
     register,
@@ -31,7 +32,7 @@ export function LoginForm({ onSuccess }: LoginFormProps) {
   } = useForm<LoginRequest>({
     resolver: zodResolver(schema),
     defaultValues: {
-      Email: localStorage.getItem("procredit_remembered_Email") ?? "",
+      Email: cookieUtils.get("procredit_remembered_Email") ?? "",
       password: "",
     },
   });
@@ -41,9 +42,14 @@ export function LoginForm({ onSuccess }: LoginFormProps) {
   const onSubmit = async (data: LoginRequest) => {
     setRemember(remember);
     if (remember)
-      localStorage.setItem("procredit_remembered_Email", data.Email);
-    else localStorage.removeItem("procredit_remembered_Email");
-    localStorage.setItem("procredit_remember_user", String(remember));
+      cookieUtils.set("procredit_remembered_Email", data.Email, {
+        maxAge: 60 * 60 * 24 * 30,
+      });
+    // 30 días
+    else cookieUtils.remove("procredit_remembered_Email");
+    cookieUtils.set("procredit_remember_user", String(remember), {
+      maxAge: 60 * 60 * 24 * 30,
+    }); // 30 días
     const authenticated = await login(data, remember);
 
     if (authenticated) {

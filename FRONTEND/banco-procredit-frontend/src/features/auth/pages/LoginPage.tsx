@@ -20,7 +20,7 @@ export function LoginPage() {
   return (
     <div className="flex min-h-screen flex-col items-center bg-surface text-on-surface">
       <main className="flex w-full max-w-[420px] flex-1 flex-col justify-center px-5 py-10 md:px-0">
-        <div className="mb-8 flex justify-center">
+        <div className=" flex justify-center">
           <Logo />
         </div>
 

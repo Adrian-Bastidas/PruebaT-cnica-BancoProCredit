@@ -153,8 +153,7 @@
               "RelativeToolTip": "..\\BancoProcredit.Domain\\Interfaces\\IEmpleadoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:00:15.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T17:00:15.547Z"
             },
             {
               "$type": "Document",
@@ -166,8 +165,7 @@
               "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\EmpleadoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:23:56.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T17:23:56.046Z"
             },
             {
               "$type": "Document",
@@ -179,8 +177,7 @@
               "RelativeToolTip": "..\\BancoProcredit.Application\\Services\\EmpleadoService.cs",
               "ViewState": "AgIAAMgAAAAAAAAAAAAcwPUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:33:29.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T17:33:29.489Z"
             },
             {
               "$type": "Document",
@@ -192,8 +189,7 @@
               "RelativeToolTip": "..\\BancoProcredit.Application\\Services\\IEmpleadoService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:32:00.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T17:32:00.838Z"
             },
             {
               "$type": "Document",
@@ -205,8 +201,7 @@
               "RelativeToolTip": "Controllers\\EmpleadosController.cs",
               "ViewState": "AgIAAGEAAAAAAAAAAAAwwDsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T23:01:41.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T23:01:41.038Z"
             },
             {
               "$type": "Document",
@@ -231,8 +226,7 @@
               "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\PaginatedResponseDTO.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-14T03:36:44.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-14T03:36:44.456Z"
             },
             {
               "$type": "Document",
