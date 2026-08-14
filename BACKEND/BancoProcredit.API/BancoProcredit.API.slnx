@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../BancoProcredit.Application/BancoProcredit.Application.csproj" />
+  <Project Path="../BancoProcredit.Domain/BancoProcredit.Domain.csproj" />
+  <Project Path="../BancoProcredit.Infrastructure/BancoProcredit.Infrastructure.csproj" />
+  <Project Path="BancoProcredit.API.csproj" />
+</Solution>
