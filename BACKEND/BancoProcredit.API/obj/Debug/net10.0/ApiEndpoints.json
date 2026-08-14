@@ -124,10 +124,21 @@
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BancoProcredit.Application.DTOs.EmpleadoDTO, BancoProcredit.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "BancoProcredit.Application.DTOs.PaginatedResponseDTO\u00601[[BancoProcredit.Application.DTOs.EmpleadoDTO, BancoProcredit.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -238,11 +249,21 @@
         "Name": "departamentoId",
         "Type": "System.Int32",
         "IsRequired": true
+      },
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BancoProcredit.Application.DTOs.EmpleadoDTO, BancoProcredit.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "BancoProcredit.Application.DTOs.PaginatedResponseDTO\u00601[[BancoProcredit.Application.DTOs.EmpleadoDTO, BancoProcredit.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

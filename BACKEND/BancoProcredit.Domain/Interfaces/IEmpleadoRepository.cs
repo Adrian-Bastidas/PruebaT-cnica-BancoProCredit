@@ -15,5 +15,7 @@ namespace BancoProcredit.Domain.Interfaces
         Task<bool> UpdateAsync(Empleado empleado);
         Task<bool> DeleteAsync(int id);
         Task<bool> DocumentoExisteAsync(string numeroDocumento);
+        Task<(IEnumerable<Empleado> data, int total)> GetAllPaginatedAsync(int pageNumber, int pageSize);
+        Task<(IEnumerable<Empleado> data, int total)> GetByDepartamentoPaginatedAsync(int departamentoId, int pageNumber, int pageSize);
     }
 }

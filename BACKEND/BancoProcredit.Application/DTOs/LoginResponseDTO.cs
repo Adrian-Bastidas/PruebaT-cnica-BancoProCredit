@@ -9,6 +9,7 @@ namespace BancoProcredit.Application.DTOs
         public bool Success { get; set; }
         public string Message { get; set; }
         public string Token { get; set; }
+        public UserDTO user { get; set; }
         public DateTime ExpiresAt { get; set; }
     }
 }

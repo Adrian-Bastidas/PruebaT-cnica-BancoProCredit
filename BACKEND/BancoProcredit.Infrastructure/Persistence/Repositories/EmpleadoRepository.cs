@@ -101,5 +101,44 @@ namespace BancoProcredit.Infrastructure.Persistence.Repositories
             return await _context.Empleados
                 .AnyAsync(e => e.NumeroDocumento == numeroDocumento);
         }
+        public async Task<(IEnumerable<Empleado> data, int total)> GetAllPaginatedAsync(int pageNumber, int pageSize)
+        {
+            var query = _context.Empleados
+                .Where(e => e.Activo)
+                .Include(e => e.Departamento)
+                .Include(e => e.Cargo)
+                .OrderBy(e => e.Nombre)
+                .ThenBy(e => e.Apellido);
+
+            var total = await query.CountAsync();
+
+            var data = await query
+                .Skip((pageNumber - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
+
+            return (data, total);
+        }
+
+        // LINQ con paginación: Por departamento
+        public async Task<(IEnumerable<Empleado> data, int total)> GetByDepartamentoPaginatedAsync(int departamentoId, int pageNumber, int pageSize)
+        {
+            var query = _context.Empleados
+                .Where(e => e.Activo)
+                .Where(e => e.DepartamentoID == departamentoId)
+                .Include(e => e.Departamento)
+                .Include(e => e.Cargo)
+                .OrderBy(e => e.Nombre)
+                .ThenBy(e => e.Apellido);
+
+            var total = await query.CountAsync();
+
+            var data = await query
+                .Skip((pageNumber - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
+
+            return (data, total);
+        }
     }
 }

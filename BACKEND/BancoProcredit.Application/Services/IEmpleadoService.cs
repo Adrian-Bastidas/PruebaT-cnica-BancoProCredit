@@ -14,5 +14,7 @@ namespace BancoProcredit.Application.Services
         Task<bool> UpdateAsync(int id, CreateEmpleadoDTO dto);
         Task<bool> DeleteAsync(int id);
         Task<bool> DocumentoExisteAsync(string numeroDocumento);
+        Task<PaginatedResponseDTO<EmpleadoDTO>> GetAllPaginatedAsync(int pageNumber, int pageSize);
+        Task<PaginatedResponseDTO<EmpleadoDTO>> GetByDepartamentoPaginatedAsync(int departamentoId, int pageNumber, int pageSize);
     }
 }

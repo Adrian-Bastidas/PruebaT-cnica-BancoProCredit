@@ -183,5 +183,66 @@ namespace BancoProcredit.Application.Services
         {
             return await _empleadoRepository.DocumentoExisteAsync(numeroDocumento);
         }
+        public async Task<PaginatedResponseDTO<EmpleadoDTO>> GetAllPaginatedAsync(int pageNumber, int pageSize)
+        {
+            if (pageNumber < 1) pageNumber = 1;
+            if (pageSize < 1) pageSize = 10;
+
+            var (empleados, total) = await _empleadoRepository.GetAllPaginatedAsync(pageNumber, pageSize);
+
+            // LINQ: Transformar a DTO
+            var dtos = empleados
+                .Select(e => new EmpleadoDTO
+                {
+                    EmpleadoID = e.EmpleadoID,
+                    NumeroDocumento = e.NumeroDocumento,
+                    Nombre = e.Nombre,
+                    Apellido = e.Apellido,
+                    Edad = e.Edad,
+                    RemuneracionMensual = e.RemuneracionMensual,
+                    DepartamentoID = e.DepartamentoID,
+                    Departamento = e.Departamento?.NombreDepartamento,
+                    CargoID = e.CargoID,
+                    Cargo = e.Cargo?.NombreCargo,
+                    FechaRegistro = e.FechaRegistro,
+                    Activo = e.Activo
+                })
+                .ToList();
+
+            return new PaginatedResponseDTO<EmpleadoDTO>(dtos, pageNumber, pageSize, total);
+        }
+
+        public async Task<PaginatedResponseDTO<EmpleadoDTO>> GetByDepartamentoPaginatedAsync(int departamentoId, int pageNumber, int pageSize)
+        {
+            if (pageNumber < 1) pageNumber = 1;
+            if (pageSize < 1) pageSize = 10;
+
+            var departamentoExiste = await _departamentoRepository.ExisteAsync(departamentoId);
+            if (!departamentoExiste)
+                throw new AppException($"Departamento con ID {departamentoId} no existe");
+
+            var (empleados, total) = await _empleadoRepository.GetByDepartamentoPaginatedAsync(departamentoId, pageNumber, pageSize);
+
+            // LINQ: Transformar a DTO
+            var dtos = empleados
+                .Select(e => new EmpleadoDTO
+                {
+                    EmpleadoID = e.EmpleadoID,
+                    NumeroDocumento = e.NumeroDocumento,
+                    Nombre = e.Nombre,
+                    Apellido = e.Apellido,
+                    Edad = e.Edad,
+                    RemuneracionMensual = e.RemuneracionMensual,
+                    DepartamentoID = e.DepartamentoID,
+                    Departamento = e.Departamento?.NombreDepartamento,
+                    CargoID = e.CargoID,
+                    Cargo = e.Cargo?.NombreCargo,
+                    FechaRegistro = e.FechaRegistro,
+                    Activo = e.Activo
+                })
+                .ToList();
+
+            return new PaginatedResponseDTO<EmpleadoDTO>(dtos, pageNumber, pageSize, total);
+        }
     }
 }

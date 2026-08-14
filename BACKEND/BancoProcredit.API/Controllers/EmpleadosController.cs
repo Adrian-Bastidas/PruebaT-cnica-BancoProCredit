@@ -19,12 +19,12 @@ namespace BancoProcredit.API.Controllers
 
         // GET: api/empleados
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<EmpleadoDTO>>> GetAll()
+        public async Task<ActionResult<PaginatedResponseDTO<EmpleadoDTO>>> GetAll([FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 10)
         {
             try
             {
-                var empleados = await _empleadoService.GetAllAsync();
-                return Ok(empleados);
+                var result = await _empleadoService.GetAllPaginatedAsync(pageNumber, pageSize);
+                return Ok(result);
             }
             catch (Exception ex)
             {
@@ -49,12 +49,12 @@ namespace BancoProcredit.API.Controllers
 
         // GET: api/empleados/departamento/{departamentoId}
         [HttpGet("departamento/{departamentoId}")]
-        public async Task<ActionResult<IEnumerable<EmpleadoDTO>>> GetByDepartamento(int departamentoId)
+        public async Task<ActionResult<PaginatedResponseDTO<EmpleadoDTO>>> GetByDepartamento(int departamentoId, [FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 10)
         {
             try
             {
-                var empleados = await _empleadoService.GetByDepartamentoAsync(departamentoId);
-                return Ok(empleados);
+                var result = await _empleadoService.GetByDepartamentoPaginatedAsync(departamentoId, pageNumber, pageSize);
+                return Ok(result);
             }
             catch (Exception ex)
             {
