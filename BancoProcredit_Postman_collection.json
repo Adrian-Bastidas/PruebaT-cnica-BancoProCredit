@@ -20,7 +20,7 @@
                   "    var jsonData = pm.response.json();",
                   "    pm.environment.set('token', jsonData.token);",
                   "    pm.environment.set('expiresAt', jsonData.expiresAt);",
-                  "    console.log('✅ Token guardado:', jsonData.token.substring(0, 20) + '...');",
+                  "    console.log('Token guardado:', jsonData.token.substring(0, 20) + '...');",
                   "}"
                 ]
               }
