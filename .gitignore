@@ -43,3 +43,21 @@ BACKEND/BancoProcredit.Application/obj/Debug/net10.0/BancoProcredit.Application.
 FRONTEND/banco-procredit-frontend/.vite/deps/_metadata.json
 
 FRONTEND/banco-procredit-frontend/.vite/deps/package.json
+
+BACKEND/BancoProcredit.API/obj/Debug/net10.0/BancoProcredit.API.AssemblyInfo.cs
+
+BACKEND/BancoProcredit.API/obj/Debug/net10.0/BancoProcredit.API.AssemblyInfoInputs.cache
+
+BACKEND/BancoProcredit.API/obj/Debug/net10.0/BancoProcredit.API.csproj.AssemblyReference.cache
+
+BACKEND/BancoProcredit.API/obj/Debug/net10.0/rpswa.dswa.cache.json
+
+BACKEND/BancoProcredit.Domain/obj/Debug/net10.0/BancoProcredit.Domain.AssemblyInfo.cs
+
+BACKEND/BancoProcredit.Domain/obj/Debug/net10.0/BancoProcredit.Domain.AssemblyInfoInputs.cache
+
+BACKEND/BancoProcredit.Infrastructure/obj/Debug/net10.0/BancoProcredit.Infrastructure.AssemblyInfo.cs
+
+BACKEND/BancoProcredit.Infrastructure/obj/Debug/net10.0/BancoProcredit.Infrastructure.AssemblyInfoInputs.cache
+
+BACKEND/BancoProcredit.Infrastructure/obj/Debug/net10.0/BancoProcredit.Infrastructure.csproj.AssemblyReference.cache
