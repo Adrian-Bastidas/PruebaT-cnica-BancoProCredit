@@ -3,30 +3,72 @@
   "WorkspaceRootPath": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\persistence\\data\\bancoprocreditcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\configuration\\authenticationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\authentication\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\authentication\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\configuration\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.api\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|solutionrelative:controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\services\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\persistence\\repositories\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1909E6-592A-6E6B-0B83-633763B7B9E6}|..\\BancoProcredit.Domain\\BancoProcredit.Domain.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.domain\\interfaces\\iempleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\paginatedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\persistence\\repositories\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.api\\bancoprocredit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|solutionrelative:bancoprocredit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\authentication\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\persistence\\data\\bancoprocreditcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\createempleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\cargodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\configuration\\authenticationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\configuration\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\persistence\\repositories\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -39,24 +81,12 @@
       "RelativeMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.api\\bancoprocredit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|solutionrelative:bancoprocredit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.api\\controllers\\cargoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|solutionrelative:controllers\\cargoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.api\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|solutionrelative:controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.api\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|solutionrelative:controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4FE64AC-AFB0-82B6-87B9-09BBE6AEA4F8}|BancoProcredit.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4BF8B55-0777-E28A-D4D0-82CAD63BD390}|..\\BancoProcredit.Infrastructure\\BancoProcredit.Infrastructure.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.infrastructure\\authentication\\jwttokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -71,16 +101,10 @@
       "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\services\\cargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\services\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\services\\idepartamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\services\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\services\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -89,25 +113,7 @@
       "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\validators\\empleadovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\cargodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\createempleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5128B-71AF-7721-FFD6-004255FB49B7}|..\\BancoProcredit.Application\\BancoProcredit.Application.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.application\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF1909E6-592A-6E6B-0B83-633763B7B9E6}|..\\BancoProcredit.Domain\\BancoProcredit.Domain.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.domain\\interfaces\\iempleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF1909E6-592A-6E6B-0B83-633763B7B9E6}|..\\BancoProcredit.Domain\\BancoProcredit.Domain.csproj|d:\\directorios\\documents\\trabajo procredit\\pruebat-cnica-bancoprocredit\\backend\\bancoprocredit.domain\\interfaces\\icargorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -139,20 +145,236 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthenticationConfiguration.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Configuration\\AuthenticationConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Configuration\\AuthenticationConfiguration.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Configuration\\AuthenticationConfiguration.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Configuration\\AuthenticationConfiguration.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDcAAABPAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IEmpleadoRepository.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Domain\\Interfaces\\IEmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Domain\\Interfaces\\IEmpleadoRepository.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Domain\\Interfaces\\IEmpleadoRepository.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Domain\\Interfaces\\IEmpleadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:45:46.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T17:00:15.547Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "EmpleadoRepository.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\EmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\EmpleadoRepository.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\EmpleadoRepository.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\EmpleadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:23:56.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Services\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\Services\\EmpleadoService.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Services\\EmpleadoService.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Application\\Services\\EmpleadoService.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAcwPUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:33:29.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Services\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\Services\\IEmpleadoService.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Services\\IEmpleadoService.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Application\\Services\\IEmpleadoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:32:00.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpleadosController.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T23:01:41.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Authentication\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Authentication\\AuthService.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Authentication\\AuthService.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Authentication\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:45:02.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaginatedResponseDTO.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\PaginatedResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\PaginatedResponseDTO.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\PaginatedResponseDTO.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\PaginatedResponseDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T03:36:44.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAkAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-13T17:47:30.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T18:03:49.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BancoProcredit.API.csproj",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\BancoProcredit.API.csproj",
+              "RelativeDocumentMoniker": "BancoProcredit.API.csproj",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\BancoProcredit.API.csproj",
+              "RelativeToolTip": "BancoProcredit.API.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-13T22:39:23.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T23:01:12.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Authentication\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Authentication\\IAuthService.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Authentication\\IAuthService.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Authentication\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:44:08.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BancoProcreditContext.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Persistence\\Data\\BancoProcreditContext.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Persistence\\Data\\BancoProcreditContext.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Persistence\\Data\\BancoProcreditContext.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Persistence\\Data\\BancoProcreditContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:23:03.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\LoginRequestDTO.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\LoginRequestDTO.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:13:49.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\LoginResponseDTO.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\LoginResponseDTO.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:14:09.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateEmpleadoDTO.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\CreateEmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\CreateEmpleadoDTO.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\CreateEmpleadoDTO.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\CreateEmpleadoDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:12:32.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmpleadoDTO.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\EmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\EmpleadoDTO.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\EmpleadoDTO.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\EmpleadoDTO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAywBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:12:02.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CargoDTO.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\CargoDTO.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\CargoDTO.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\CargoDTO.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\CargoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:13:25.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T01:43:09.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "ServiceConfiguration.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Configuration\\ServiceConfiguration.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Configuration\\ServiceConfiguration.cs",
@@ -160,90 +382,23 @@
               "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Configuration\\ServiceConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:46:51.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T17:46:51.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "AuthenticationConfiguration.cs",
+              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Configuration\\AuthenticationConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Configuration\\AuthenticationConfiguration.cs",
+              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Configuration\\AuthenticationConfiguration.cs",
+              "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Configuration\\AuthenticationConfiguration.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDcAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T18:03:49.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T17:45:46.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Authentication\\AuthService.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Authentication\\AuthService.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Authentication\\AuthService.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Authentication\\AuthService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:45:02.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Authentication\\IAuthService.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Authentication\\IAuthService.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Authentication\\IAuthService.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Authentication\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:44:08.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BancoProcreditContext.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Persistence\\Data\\BancoProcreditContext.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Persistence\\Data\\BancoProcreditContext.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Persistence\\Data\\BancoProcreditContext.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Persistence\\Data\\BancoProcreditContext.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowEMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:23:03.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-13T17:47:30.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmpleadoRepository.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\EmpleadoRepository.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\EmpleadoRepository.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\EmpleadoRepository.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\EmpleadoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:23:56.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "DepartamentoRepository.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\DepartamentoRepository.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\DepartamentoRepository.cs",
@@ -251,12 +406,11 @@
               "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\DepartamentoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:26:25.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T17:26:25.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "CargoRepository.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\CargoRepository.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\CargoRepository.cs",
@@ -264,12 +418,11 @@
               "RelativeToolTip": "..\\BancoProcredit.Infrastructure\\Persistence\\Repositories\\CargoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:27:13.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T17:27:13.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -277,49 +430,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-13T23:31:19.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T23:31:19.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BancoProcredit.API.csproj",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\BancoProcredit.API.csproj",
-              "RelativeDocumentMoniker": "BancoProcredit.API.csproj",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\BancoProcredit.API.csproj",
-              "RelativeToolTip": "BancoProcredit.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-13T22:39:23.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T23:01:12.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EmpleadosController.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Controllers\\EmpleadosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmpleadosController.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Controllers\\EmpleadosController.cs",
-              "RelativeToolTip": "Controllers\\EmpleadosController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwHkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T23:01:41.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "CargosController.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Controllers\\CargosController.cs",
               "RelativeDocumentMoniker": "Controllers\\CargosController.cs",
@@ -331,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "DepartamentosController.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.API\\Controllers\\DepartamentosController.cs",
               "RelativeDocumentMoniker": "Controllers\\DepartamentosController.cs",
@@ -343,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\Mappings\\MappingProfile.cs",
@@ -355,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "JwtTokenProvider.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Infrastructure\\Authentication\\JwtTokenProvider.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Infrastructure\\Authentication\\JwtTokenProvider.cs",
@@ -367,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "AppException.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Exceptions\\AppException.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\Exceptions\\AppException.cs",
@@ -379,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "CargoService.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Services\\CargoService.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\Services\\CargoService.cs",
@@ -391,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "ICargoService.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Services\\ICargoService.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\Services\\ICargoService.cs",
@@ -403,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "IDepartamentoService.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Services\\IDepartamentoService.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\Services\\IDepartamentoService.cs",
@@ -415,31 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "EmpleadoService.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Services\\EmpleadoService.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\Services\\EmpleadoService.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Services\\EmpleadoService.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Application\\Services\\EmpleadoService.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAkwJYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:33:29.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IEmpleadoService.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Services\\IEmpleadoService.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\Services\\IEmpleadoService.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Services\\IEmpleadoService.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Application\\Services\\IEmpleadoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:32:00.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "DepartamentoService.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Services\\DepartamentoService.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\Services\\DepartamentoService.cs",
@@ -451,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "EmpleadoValidator.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\Validators\\EmpleadoValidator.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\Validators\\EmpleadoValidator.cs",
@@ -463,43 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "LoginResponseDTO.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\LoginResponseDTO.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\LoginResponseDTO.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\LoginResponseDTO.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\LoginResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:14:09.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "LoginRequestDTO.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\LoginRequestDTO.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\LoginRequestDTO.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\LoginRequestDTO.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\LoginRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:13:49.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CargoDTO.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\CargoDTO.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\CargoDTO.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\CargoDTO.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\CargoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:13:25.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "DepartamentoDTO.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\DepartamentoDTO.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\DepartamentoDTO.cs",
@@ -511,31 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CreateEmpleadoDTO.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\CreateEmpleadoDTO.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\CreateEmpleadoDTO.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\CreateEmpleadoDTO.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\CreateEmpleadoDTO.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvxAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:12:32.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "EmpleadoDTO.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\EmpleadoDTO.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Application\\DTOs\\EmpleadoDTO.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Application\\DTOs\\EmpleadoDTO.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Application\\DTOs\\EmpleadoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:12:02.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "DomainException.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Domain\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Domain\\Exceptions\\DomainException.cs",
@@ -547,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "ICargoRepository.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Domain\\Interfaces\\ICargoRepository.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Domain\\Interfaces\\ICargoRepository.cs",
@@ -559,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "IDepartamentoRepository.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Domain\\Interfaces\\IDepartamentoRepository.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Domain\\Interfaces\\IDepartamentoRepository.cs",
@@ -571,19 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IEmpleadoRepository.cs",
-              "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Domain\\Interfaces\\IEmpleadoRepository.cs",
-              "RelativeDocumentMoniker": "..\\BancoProcredit.Domain\\Interfaces\\IEmpleadoRepository.cs",
-              "ToolTip": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Domain\\Interfaces\\IEmpleadoRepository.cs",
-              "RelativeToolTip": "..\\BancoProcredit.Domain\\Interfaces\\IEmpleadoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:00:15.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Cargo.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Domain\\Entities\\Cargo.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Domain\\Entities\\Cargo.cs",
@@ -595,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "Departamento.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Domain\\Entities\\Departamento.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Domain\\Entities\\Departamento.cs",
@@ -607,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "Empleado.cs",
               "DocumentMoniker": "D:\\Directorios\\Documents\\Trabajo Procredit\\PruebaT-cnica-BancoProCredit\\BACKEND\\BancoProcredit.Domain\\Entities\\Empleado.cs",
               "RelativeDocumentMoniker": "..\\BancoProcredit.Domain\\Entities\\Empleado.cs",

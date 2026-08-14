@@ -8,6 +8,6 @@ namespace BancoProcredit.Infrastructure.Authentication
     public interface IAuthService
     {
         Task<LoginResponseDTO> LoginAsync(LoginRequestDTO request);
-        string GenerateToken(int userId, string username);
+        string GenerateToken(int userId, string email);
     }
 }
